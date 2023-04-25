@@ -1,0 +1,17 @@
+[
+    {
+        "title": "test post",
+        "content": "I'm very tired"
+    },
+
+    {
+        "title": "test post 2",
+        "content": "second test post"
+    },
+
+    {
+        "title": "test post 3",
+        "content": "third test post"
+    }
+
+]
